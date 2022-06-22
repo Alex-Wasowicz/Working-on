@@ -8,10 +8,14 @@
 #define name namespace
 #define empty {}
 
+name Fundamental
+{
+//read  "about_operators.html"
+#include "pointers.cpp"
 
 
-
-
+   
+}
 
 #undef type
 #undef name
