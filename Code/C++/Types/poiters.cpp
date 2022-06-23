@@ -1,9 +1,15 @@
 
 
 
-struct Void { Void() = delete; }
-struct template_true  :Void empty
-struct template_false :Void empty
+struct Void
+{
+   Void() = delete;
+};
+
+template <bool constrain>
+concept template_if = constrain; //C++20
+
+
 
 
 template <type T>
