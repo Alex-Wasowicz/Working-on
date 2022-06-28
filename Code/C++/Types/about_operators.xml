@@ -1,43 +1,34 @@
 <?xml-stylesheet href="std.css"?>
 <html>
-<table>
-<r><td> 	,	</td></r>
-<r><td> 	!	</td></r>
-<r><td> 	!=	</td></r>
-<r><td> 	%	</td></r>
-<r><td> 	%=	</td></r>
-<r><td> 	&#38;	</td></r>
-<r><td> 	&#38;	</td></r>
-<r><td> 	&#38;&#38;</td></r>
-<r><td> 	&#38;=	</td></r>
-<r><td> 	()	</td></r>
-<r><td> 	()	</td></r>
-<r><td> 	*	</td></r>
-<r><td> 	*	</td></r>
-<r><td> 	*=	</td></r>
-<r><td> 	+	</td></r>
-<r><td> 	+	</td></r>
-<r><td> 	++	</td></r>
-<r><td> 	+=	</td></r>
-<r><td> 	-	</td></r>
-<r><td>-	</td></r>
-<r><td>--	</td></r>
-<r><td>-=</td></r>
-<r><td>-&gt;</td></r>
-<r><td></td></r>
-<r><td></td></r>
-<r><td></td></r>
-<r><td></td></r>
-<r><td></td></r>
-<r><td></td></r>
-<r><td></td></r>
-<r><td></td></r>
-<r><td></td></r>
-<r><td></td></r>
-<r><td></td></r>
-<r><td></td></r>
-<r><td></td></r>
-<r><td></td></r>
-<r><td></td></r>
+
+<p>Normal Unary</p><br/><table>
+<r><td>  !a   </td></r>
+<r><td>  ~a   </td></r>
+<r><td>  +a   </td></r>
+<r><td>  -a   </td></r>
+<r><td>  ++a  </td></r>
+<r><td>  a++  </td></r>
+<r><td>  --a  </td></r>
+<r><td>  a--  </td></r>
+</table><br/>
+
+<p>Binary</p><br/><table>
+<r><td>  a!=b   </td></r>
+<r><td>  a%b    </td></r>
+<r><td>  a&#38;b      </td></r>
+<r><td>  a&#38;&#38;b </td></r>
+<r><td>  a*b   </td></r>
+<r><td>  a+b   </td></r>
+<r><td>  a-b   </td></r>
+<r><td>  a/b   </td></r>
 </table>
+
+<p>Special</p><br/><table>
+<r><td>  &#38;a	</td></r>
+<r><td> (type)a </td></r>
+<r><td>  *a     </td></r>
+<r><td>  a,b    </td></r>
+<r><td>  a->b   </td></r>
+</table><br/>
+
 </html>
