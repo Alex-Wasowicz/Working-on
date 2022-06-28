@@ -1,0 +1,36 @@
+*{
+  box-sizing: border-box;
+  display: block;
+  float: left;
+}
+html{
+  font-size: 1.2em;
+  background-color: #000;
+  color: white;
+  padding: 0.3em;
+}
+br{
+  float: none;
+  clear: left;
+}
+r{
+  float: none;
+  display: table-row;
+}
+table{
+  padding: 0.1em;
+  background-color: #222;
+}
+td{
+  border: 0.1em #333 solid ;
+  float: none;
+  display: table-cell;
+  text-align: center;
+  min-height: 1.3em;
+  min-width: 2em;
+  padding: 0.2em;
+  background-color: #111;
+}
+p{
+  padding: 0.2em;
+}
