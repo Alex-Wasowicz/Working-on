@@ -1,7 +1,7 @@
 <?xml-stylesheet href="std.css"?>
 <html>
 
-<p>Normal Unary</p><br/><table>
+<p>Simple Unary</p><br/><table>
 <r><td>  !a   </td></r>
 <r><td>  ~a   </td></r>
 <r><td>  +a   </td></r>
@@ -12,15 +12,15 @@
 <r><td>  a--  </td></r>
 </table><br/>
 
-<p>Binary</p><br/><table>
-<r><td>  a!=b   </td></r>
-<r><td>  a%b    </td></r>
-<r><td>  a&#38;b      </td></r>
-<r><td>  a&#38;&#38;b </td></r>
+<p>Math Binary</p><br/><table>
 <r><td>  a*b   </td></r>
 <r><td>  a+b   </td></r>
 <r><td>  a-b   </td></r>
 <r><td>  a/b   </td></r>
+<r><td>  a!=b   </td></r>
+<r><td>  a%b    </td></r>
+<r><td>  a&#38;b      </td></r>
+<r><td>  a&#38;&#38;b </td></r>
 </table>
 
 <p>Special</p><br/><table>
