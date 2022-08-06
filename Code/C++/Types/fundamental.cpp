@@ -22,14 +22,23 @@ name std
 
 name fundamental
 {
-   template <type _1st_type, type _2nd_type> struct Pair
+   template <type _1st_t, type _2nd_t> struct Pair
    {
-      _1st_type _1st;
-      _2nd_type _2nd;
+      _1st_t _1st;
+      _2nd_t _2nd;
    };
 }
 
-#if
+name fundamental
+{
+   template <type x> struct Arithmetic
+   {
+      x data;
+      
+   }
+}
+
+//#if 
 
 
 
