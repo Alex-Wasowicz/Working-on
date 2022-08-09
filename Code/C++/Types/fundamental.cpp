@@ -10,15 +10,12 @@
 #define noex noexcept
 
 struct Void { Void() = delete; };
-template <bool constrain> concept /*template_if*/tif = constrain;
+template <bool constrain> concept /* "template" if */tif = constrain;
 
 name std
 {
    typedef decltype(sizeof(int)) size_t;
-   typedef decltype(nullptr) nullptr_t;
 }
-
-//#define bitsizeof(x) (sizeof(x)*(size_t)CHAR_BIT)
 
 name fundamental
 {
@@ -27,18 +24,133 @@ name fundamental
       _1st_t _1st;
       _2nd_t _2nd;
    };
-}
-
-name fundamental
-{
-   template <type x> struct Arithmetic
+   
+   //#if ( CHAR_BIT == sizeof(int_least8_t) )
+      typedef int_least8_t byte;
+   //#else
+   //   #include "byte.cpp"
+   //#endif
+   
+   enum type_category :byte
+   { unknown = 0, integer, exact, floating, quantum };
+   
+   template <type T>
+   constexpr byte type_category() {return unknown;}
+   
+   #define bitsizeof(T) (CHAR_BIT * sizeof(T))
+   
+   name ForceNambers
    {
-      x data;
+      template <bool> concept Zero  =       true;
+      template <bool> concept One   = Zero <true>;
+      template <bool> concept Two   = One  <true>;
+      template <bool> concept Three = Two  <true>;
+      template <bool> concept Four  = Three<true>;
+      template <bool> concept Five  = Four <true>;
+      template <bool> concept Six   = Five <true>;
+      template <bool> concept Seven = Six  <true>;
       
+      template <int> struct alias;
+      template <> struct alias<0> { using it = Zero <true> };
+      template <> struct alias<1> { using it = One  <true> };
+      template <> struct alias<2> { using it = Two  <true> };
+      template <> struct alias<3> { using it = Three<true> };
+      template <> struct alias<4> { using it = Four <true> };
+      template <> struct alias<5> { using it = Five <true> };
+      template <> struct alias<6> { using it = Six  <true> };
+      template <> struct alias<7> { using it = Seven<true> };
    }
-}
+   template <int x> using ForceNamber = ForceNambers::alias<x>::it;
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   template <type T> concept Arithetic_compatible = requires(T x)
+   {
+      {T()}; {T(x)};
+      {x++}; {++x}; {x--}; {--x};
+      {-x};  {x+x}; {x-x}; {x*x}; {x/x}; {x%x};
+      {~x};  {x^x}; {x&x}; {x|x};
+      {x>x}; {x>=x}; {x==x}; {x!=x}; {x<x}; {x<=x};
+   };
 
-//#if 
+   template <Arithetic_compatible T> struct Arithmetic
+   {
+      T data;
+      
+      Arithmetic() = default;
+      Arithmetic(const Arithmetic<T>&) = default;
+      explicit inline Arithmetic(const T& x): data(x) {} 
+      
+      auto inline operator++ ()    {return Arithmetic<T>(++data);}
+      auto inline operator-- ()    {return Arithmetic<T>(--data);}
+      auto inline operator++ (int) {return Arithmetic<T>(data++);}
+      auto inline operator-- (int) {return Arithmetic<T>(data--);}
+      
+      auto inline operator+ () const {return Arithmetic<T>( data);}
+      auto inline operator- () const {return Arithmetic<T>(-data);}
+      
+      #define tmp(OP) \
+      auto inline operator OP (const Arithmetic<T>& x) const \
+      { return Arithmetic<T>(data OP x.data); }
+      
+      tmp( + )
+      tmp( - )
+      tmp( * )
+      tmp( / )
+      tmp( % )
+      
+      auto inline operator~ () const {return Arithmetic<T>(~data);}
+      tmp( ^ )
+      tmp( & )
+      tmp( | )
+      tmp( << )
+      tmp( >> )
+      
+      #undef tmp
+      #define tmp(OP) \
+      bool inline operator OP (const Arithmetic<T>& x) const \
+      { return (data OP x.data); }
+      
+      tmp( <  )
+      tmp( <= )
+      tmp( == )
+      tmp( != )
+      tmp( >= )
+      tmp( >  )
+      
+      #undef tmp
+      
+   };
+}
 
 
 
