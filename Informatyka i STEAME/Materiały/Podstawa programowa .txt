@@ -1,0 +1,198 @@
+
+[Klasy 1-3:]
+[...]
+
+Najważniejsze umiejętności rozwijane w ramach kształcenia ogólnego w szkole podstawowej to:
+   [...]
+   4) kreatywne rozwiązywanie problemów z różnych dziedzin
+      ze świadomym wykorzystaniem metod i narzędzi wywodzących się z informatyki, w tym programowanie;
+
+[...]
+
+Szkoła ma stwarzać uczniom warunki do nabywania wiedzy i umiejętności potrzebnych do rozwiązywania problemów
+z wykorzystaniem metod i technik wywodzących się z informatyki, w tym logicznego i algorytmicznego myślenia,
+programowania, posługiwania się aplikacjami komputerowymi, wyszukiwania i wykorzystywania informacji z różnych źródeł,
+posługiwania się komputerem i podstawowymi urządzeniami cyfrowymi
+oraz stosowania tych umiejętności na zajęciach z różnych przedmiotów m.in. do pracy nad tekstem, wykonywania obliczeń,
+przetwarzania informacji i jej prezentacji w różnych postaciach.
+
+Szkoła ma również przygotowywać ich do dokonywania świadomych i odpowiedzialnych wyborów w trakcie korzystania z zasobów
+dostępnych w internecie, krytycznej analizy informacji, bezpiecznego poruszania się w przestrzeni cyfrowej,
+w tym nawiązywania i utrzymywania opartych na wzajemnym szacunku relacji z innymi użytkownikami sieci.
+Szkoła oraz poszczególni nauczyciele podejmują działania mające na celu
+zindywidualizowane wspomaganie rozwoju każdego ucznia, stosownie do jego potrzeb i możliwości.
+
+[...]
+
+Edukacja informatyczna.
+
+1. Osiągnięcia w zakresie rozumienia, analizowania i rozwiązywania problemów. Uczeń:
+   1) układa w logicznym porządku: obrazki, teksty, polecenia (instrukcje) składające się m.in. na codzienne czynności;
+   2) tworzy polecenie lub sekwencje poleceń dla określonego planu działania prowadzące do osiągnięcia celu;
+   3) rozwiązuje zadania, zagadki i łamigłówki prowadzące do odkrywania algorytmów.
+
+2. Osiągnięcia w zakresie programowania i rozwiązywania problemów z wykorzystaniem komputera i innych urządzeń cyfrowych.
+   Uczeń:
+   1) programuje wizualnie: proste sytuacje lub historyjki według pomysłów własnych i pomysłów opracowanych wspólnie
+      z innymi uczniami, pojedyncze polecenia, a także ich sekwencje sterujące obiektem na ekranie komputera
+      bądź innego urządzenia cyfrowego;
+   2) tworzy proste rysunki, dokumenty tekstowe, łącząc tekst z grafiką, np. zaproszenia, dyplomy, ulotki, ogłoszenia;
+      powiększa, zmniejsza, kopiuje, wkleja i usuwa elementy graficzne i tekstowe – doskonali przy tym umiejętności
+      pisania, czytania, rachowania i prezentowania swoich pomysłów;
+   3) zapisuje efekty swojej pracy we wskazanym miejscu.
+
+3. Osiągnięcia w zakresie posługiwania się komputerem, urządzeniami cyfrowymi i sieciami komputerowymi. Uczeń:
+   1) posługuje się komputerem lub innym urządzeniem cyfrowym oraz urządzeniami zewnętrznymi przy wykonywaniu zadania;
+   2) kojarzy działanie komputera lub innego urządzenia cyfrowego z efektami pracy z oprogramowaniem;
+   3) korzysta z udostępnionych mu stron i zasobów internetowych.
+
+4. Osiągnięcia w zakresie rozwijania kompetencji społecznych. Uczeń:
+   1) współpracuje z uczniami, wymienia się z nimi pomysłami i doświadczeniami, wykorzystując technologię;
+   2) wykorzystuje możliwości technologii do komunikowania się w procesie uczenia się.
+
+5. Osiągnięcia w zakresie przestrzegania prawa i zasad bezpieczeństwa. Uczeń:
+   1) posługuje się udostępnioną mu technologią zgodnie z ustalonymi zasadami;
+   2) rozróżnia pożądane i niepożądane zachowania innych osób (również uczniów) korzystających z technologii,
+      zwłaszcza w sieci internet;
+   3) przestrzega zasad dotyczących korzystania z efektów pracy innych osób i związanych z bezpieczeństwem w internecie.
+
+[...]
+
+[Klasy 4-6:]
+
+Cele kształcenia – wymagania ogólne
+   1) Rozumienie, analizowanie i rozwiązywanie problemów na bazie logicznego i abstrakcyjnego myślenia,
+      myślenia algorytmicznego i sposobów reprezentowania informacji.
+   2) Programowanie i rozwiązywanie problemów z wykorzystaniem komputera oraz innych urządzeń cyfrowych:
+      układanie i programowanie algorytmów, organizowanie, wyszukiwanie i udostępnianie informacji,
+      posługiwanie się aplikacjami komputerowymi.
+   3) Posługiwanie się komputerem, urządzeniami cyfrowymi i sieciami komputerowymi,
+      w tym znajomość zasad działania urządzeń cyfrowych i sieci komputerowych oraz wykonywania obliczeń i programów.
+   4) Rozwijanie kompetencji społecznych, takich jak komunikacja i współpraca w grupie,
+      w tym w środowiskach wirtualnych, udział w projektach zespołowych oraz zarządzanie projektami.
+   5) Przestrzeganie prawa i zasad bezpieczeństwa. Respektowanie prywatności informacji i ochrony danych,
+      praw własności intelektualnej, etykiety w komunikacji i norm współżycia społecznego,
+      ocena zagrożeń związanych z technologią i ich uwzględnienie dla bezpieczeństwa swojego i innych.
+
+Treści nauczania – wymagania szczegółowe
+   1) Rozumienie, analizowanie i rozwiązywanie problemów. Uczeń:
+      1) tworzy i porządkuje w postaci sekwencji (liniowo) lub drzewa (nieliniowo) informacje, takie jak:
+         1) obrazki i teksty ilustrujące wybrane sytuacje,
+         2) obiekty z uwzględnieniem ich cech charakterystycznych;
+      2) formułuje i zapisuje w postaci algorytmów polecenia składające się na:
+         1) rozwiązanie problemów z życia codziennego i z różnych przedmiotów,
+            np. liczenie średniej, pisemne wykonanie działań arytmetycznych, takich jak dodawanie i odejmowanie,
+         2) osiągnięcie postawionego celu, w tym znalezienie elementu w zbiorze nieuporządkowanym lub uporządkowanym,
+            znalezienie elementu najmniejszego i największego,
+         3) sterowanie robotem lub obiektem na ekranie;
+      3) w algorytmicznym rozwiązywaniu problemu wyróżnia podstawowe kroki: określenie problemu i celu do osiągnięcia,
+         analiza sytuacji problemowej, opracowanie rozwiązania, sprawdzenie rozwiązania problemu dla przykładowych danych,
+         zapisanie rozwiązania w postaci schematu lub programu.
+   2) Programowanie i rozwiązywanie problemów z wykorzystaniem komputera i innych urządzeń cyfrowych. Uczeń:
+      1) projektuje, tworzy i zapisuje w wizualnym języku programowania:
+         1) pomysły historyjek i rozwiązania problemów, w tym proste algorytmy
+            z wykorzystaniem poleceń sekwencyjnych, warunkowych i iteracyjnych oraz zdarzeń,
+         2) prosty program sterujący robotem lub innym obiektem na ekranie komputera;
+      2) testuje na komputerze swoje programy pod względem zgodności z przyjętymi założeniami
+         i ewentualnie je poprawia, objaśnia przebieg działania programów;
+      3) przygotowuje i prezentuje rozwiązania problemów, posługując się podstawowymi aplikacjami
+         (edytor tekstu oraz grafiki, arkusz kalkulacyjny, program do tworzenia prezentacji multimedialnej)
+         na swoim komputerze lub w chmurze, wykazując się przy tym umiejętnościami:
+         1) tworzenia ilustracji w edytorze grafiki: rysuje za pomocą wybranych narzędzi, przekształca obrazy,
+            uzupełnia grafikę tekstem,
+         2) tworzenia dokumentów tekstowych: dobiera czcionkę, formatuje akapity, wstawia do tekstu ilustracje,
+            napisy i kształty, tworzy tabele oraz listy numerowane i punktowane,
+         3) korzystania z arkusza kalkulacyjnego w trakcie rozwiązywania zadań związanych z prostymi obliczeniami:
+            wprowadza dane do arkusza, formatuje komórki, definiuje proste formuły i
+            dobiera wykresy do danych i celów obliczeń,
+         4) tworzenia krótkich prezentacji multimedialnych łączących tekst z grafiką,
+            korzysta przy tym z gotowych szablonów lub projektuje według własnych pomysłów;
+      4) gromadzi, porządkuje i selekcjonuje efekty swojej pracy oraz potrzebne zasoby
+         w komputerze lub w innych urządzeniach, a także w środowiskach wirtualnych (w chmurze).
+   3) Posługiwanie się komputerem, urządzeniami cyfrowymi i sieciami komputerowymi. Uczeń:
+      1) opisuje funkcje podstawowych elementów komputera i urządzeń zewnętrznych oraz:
+         1) korzysta z urządzeń do nagrywania obrazów, dźwięków i filmów, w tym urządzeń mobilnych,
+         2) wykorzystuje komputer lub inne urządzenie cyfrowe do gromadzenia, porządkowania i
+            selekcjonowania własnych zasobów;
+      2) wykorzystuje sieć komputerową (szkolną, sieć internet):
+         1) do wyszukiwania potrzebnych informacji i zasobów edukacyjnych, nawigując między stronami,
+         2) jako medium komunikacyjne,
+         3) do pracy w wirtualnym środowisku (na platformie, w chmurze),
+            stosując się do sposobów i zasad pracy w takim środowisku,
+         4) organizuje swoje pliki w folderach umieszczonych lokalnie lub w sieci.
+   4) Rozwijanie kompetencji społecznych. Uczeń:
+      1) uczestniczy w zespołowym rozwiązaniu problemu posługując się technologią taką jak:
+         poczta elektroniczna, forum, wirtualne środowisko kształcenia, dedykowany portal edukacyjny;
+      2) identyfikuje i docenia korzyści płynące ze współpracy nad wspólnym rozwiązywaniem problemów;
+      3) respektuje zasadę równości w dostępie do technologii i do informacji,
+         w tym w dostępie do komputerów w społeczności szkolnej;
+      4) określa zawody i wymienia przykłady z życia codziennego, w których są wykorzystywane kompetencje informatyczne.
+   5) Przestrzeganie prawa i zasad bezpieczeństwa. Uczeń:
+      1) posługuje się technologią zgodnie z przyjętymi zasadami i prawem;
+         przestrzega zasad bezpieczeństwa i higieny pracy;
+      2) uznaje i respektuje prawo do prywatności danych i informacji oraz prawo do własności intelektualnej;
+      3) wymienia zagrożenia związane z powszechnym dostępem do technologii oraz do informacji i
+         opisuje metody wystrzegania się ich;
+      4) stosuje profilaktykę antywirusową i potrafi zabezpieczyć przed zagrożeniem komputer
+         wraz z zawartymi w nim informacjami.
+
+[Klasy 7-8:]
+
+   1) Rozumienie, analizowanie i rozwiązywanie problemów. Uczeń:
+      1) formułuje problem w postaci specyfikacji (czyli opisuje dane i wyniki) i
+         wyróżnia kroki w algorytmicznym rozwiązywaniu problemów. Stosuje różne sposoby przedstawiania algorytmów,
+         w tym w języku naturalnym, w postaci schematów blokowych, listy kroków;
+      2) stosuje przy rozwiązywaniu problemów podstawowe algorytmy:
+         1) na liczbach naturalnych: bada podzielność liczb, wyodrębnia cyfry danej liczby,
+            przedstawia działanie algorytmu Euklidesa w obu wersjach iteracyjnych (z odejmowaniem i z resztą z dzielenia),
+         2) wyszukiwania i porządkowania: wyszukuje element w zbiorze uporządkowanym i nieuporządkowanym
+            oraz porządkuje elementy w zbiorze metodą przez proste wybieranie i zliczanie;
+      3) przedstawia sposoby reprezentowania w komputerze wartości logicznych,
+         liczb naturalnych (system binarny), znaków (kody ASCII) i tekstów;
+      4) rozwija znajomość algorytmów i wykonuje eksperymenty z algorytmami, korzystając z pomocy dydaktycznych
+         lub dostępnego oprogramowania do demonstracji działania algorytmów;
+      5) prezentuje przykłady zastosowań informatyki w innych dziedzinach, w zakresie pojęć, obiektów oraz algorytmów.
+   2) Programowanie i rozwiązywanie problemów z wykorzystaniem komputera i innych urządzeń cyfrowych. Uczeń:
+      1) projektuje, tworzy i testuje programy w procesie rozwiązywania problemów. W programach stosuje:
+         instrukcje wejścia/wyjścia, wyrażenia arytmetyczne i logiczne, instrukcje warunkowe, instrukcje iteracyjne,
+         funkcje oraz zmienne i tablice. W szczególności programuje algorytmy z działu I pkt 2;
+      2) projektuje, tworzy i testuje oprogramowanie sterujące robotem lub innym obiektem na ekranie lub w rzeczywistości;
+      3) korzystając z aplikacji komputerowych, przygotowuje dokumenty i prezentacje, także w chmurze,
+         na pożytek rozwiązywanych problemów i własnych prac z różnych dziedzin (przedmiotów),
+         dostosowuje format i wygląd opracowań do ich treści i przeznaczenia, wykazując się przy tym umiejętnościami:
+      4) tworzenia estetycznych kompozycji graficznych: tworzy kolaże, wykonuje zdjęcia i
+         poddaje je obróbce zgodnie z przeznaczeniem, nagrywa krótkie filmy oraz poddaje je podstawowej obróbce cyfrowej,
+         1) tworzenia różnych dokumentów: formatuje i łączy teksty, wstawia symbole, obrazy, tabele,
+            korzysta z szablonów dokumentów, dłuższe dokumenty dzieli na strony,
+         2) rozwiązywania zadań rachunkowych z programu nauczania z różnych przedmiotów w zakresie szkoły podstawowej,
+            z codziennego życia oraz implementacji wybranych algorytmów w arkuszu kalkulacyjnym:
+            umieszcza dane w tabeli arkusza kalkulacyjnego, posługuje się podstawowymi funkcjami,
+            stosuje adresowanie względne, bezwzględne i mieszane, przedstawia dane w postaci różnego typu wykresów,
+            porządkuje i filtruje dane,
+         3) tworzenia prezentacji multimedialnej wykorzystując tekst, grafikę, animację, dźwięk i film, stosuje hiperłącza,
+         4) tworzenia prostej strony internetowej zawierającej; tekst, grafikę, hiperłącza,
+            stosuje przy tym podstawowe polecenia języka HTML;
+      5) zapisuje efekty swojej pracy w różnych formatach i przygotowuje wydruki;
+      6) wyszukuje w sieci informacje potrzebne do realizacji wykonywanego zadania,
+         stosując złożone postaci zapytań i korzysta z zaawansowanych możliwości wyszukiwarek.
+   3) Posługiwanie się komputerem, urządzeniami cyfrowymi i sieciami komputerowymi. Uczeń:
+      1) schematycznie przedstawia budowę i funkcjonowanie sieci komputerowej, szkolnej, domowej i sieci internet;
+      2) rozwija umiejętności korzystania z różnych urządzeń do tworzenia elektronicznych wersji
+         tekstów, obrazów, dźwięków, filmów i animacji;
+      3) poprawnie posługuje się terminologią związaną z informatyką i technologią.
+   4) Rozwijanie kompetencji społecznych. Uczeń:
+      1) bierze udział w różnych formach współpracy, jak: programowanie w parach lub w zespole, realizacja projektów,
+         uczestnictwo w zorganizowanej grupie uczących się, projektuje, tworzy i prezentuje efekty wspólnej pracy;
+      2) ocenia krytycznie informacje i ich źródła, w szczególności w sieci,
+         pod względem rzetelności i wiarygodności w odniesieniu do rzeczywistych sytuacji,
+         docenia znaczenie otwartych zasobów w sieci i korzysta z nich;
+      3) przedstawia główne etapy w historycznym rozwoju informatyki i technologii;
+      4) określa zakres kompetencji informatycznych, niezbędnych do wykonywania różnych zawodów,
+         rozważa i dyskutuje wybór dalszego i pogłębionego kształcenia, również w zakresie informatyki.
+   5) Przestrzeganie prawa i zasad bezpieczeństwa. Uczeń:
+      1) opisuje kwestie etyczne związane z wykorzystaniem komputerów i sieci komputerowych,
+         takie jak: bezpieczeństwo, cyfrowa tożsamość, prywatność, własność intelektualna,
+         równy dostęp do informacji i dzielenie się informacją;
+      2) postępuje etycznie w pracy z informacjami;
+      3) rozróżnia typy licencji na oprogramowanie oraz na zasoby w sieci.
+
