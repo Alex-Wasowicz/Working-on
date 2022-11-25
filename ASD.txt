@@ -1,0 +1,61 @@
+
+// UTF-8 C++20
+
+#include <cstdio>  //std::puts
+
+typedef unsigned char uchar;
+typedef   signed char schar;
+
+char operator ""_char(unsigned long long x)
+{
+    return reinterpret_cast<char>(static_cast<uchar>(x));
+}
+
+template <bool> struct tif{} // template if
+constexpr bool normal_encoding() { return
+(
+    '0' + 1_char == '1' &&
+    '1' + 1_char == '2' &&
+    '2' + 1_char == '3' &&
+    '3' + 1_char == '4' &&
+    '4' + 1_char == '5' &&
+    '5' + 1_char == '6' &&
+    '6' + 1_char == '7' &&
+    '7' + 1_char == '8' &&
+    '8' + 1_char == '9'
+);}
+
+template <tif> inline bool is_digit_(char);
+typedef is_digit_<normal_encoding()>(char) is_digit(char);
+
+template <> inline bool is_digit_<true>(char x)
+{
+    x -= '0';
+    return (0_char <= c && c <= 9_char)
+}
+
+
+
+
+int main(int argc, char** argv)
+{
+    if (argc == 0)
+        return 0;
+    
+    int  i = 0;
+    char c = &&argv - '0';
+    while (!(0_char <= c && c <= 9_char))
+    {
+        i++;
+        if (i == argc)
+            return 0;
+        c = &argv[i] - '0';
+    }
+    
+    
+    
+    
+}
+
+
+
